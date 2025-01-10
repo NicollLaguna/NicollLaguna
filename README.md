@@ -1,5 +1,13 @@
 # 💫 About Me:
-¡Hola! Soy una apasionada programadora de 20 años de Colombia, siempre en busca de nuevos desafíos y oportunidades para crecer. Mi entusiasmo por la tecnología y la programación es el motor que me impulsa a aprender y mejorar cada día. Me encanta sumergirme en proyectos innovadores y colaborar con equipos dinámicos, donde pueda aportar mis habilidades y creatividad.<br><br>Desde que descubrí el mundo del desarrollo de software, me he dedicado a perfeccionar mis conocimientos en diversas áreas, desde desarrollo web hasta aplicaciones móviles. Estoy constantemente actualizándome con las últimas tendencias y tecnologías para asegurarme de estar siempre a la vanguardia.<br><br>Mi objetivo es destacar en cada proyecto que emprendo, aportando soluciones eficientes y creativas. Soy una persona proactiva, con un fuerte deseo de superación y una gran capacidad para adaptarme a diferentes entornos y desafíos.<br><br>Estoy ansiosa por formar parte de equipos que valoren la innovación y el trabajo en equipo, y donde pueda continuar desarrollándome como profesional. Si buscas a alguien con pasión, dedicación y ganas de marcar la diferencia, ¡me encantaría colaborar contigo en tu próximo proyecto!<br><br>Puedes revisar mis repositorios para ver algunos de los proyectos en los que he trabajado. Estoy emocionada por lo que el futuro depara y lista para enfrentar cualquier reto que se presente. ¡Vamos a crear algo increíble juntos!
+Hello! I’m a passionate 20-year-old programmer from Colombia, always seeking new challenges and opportunities to grow. My enthusiasm for technology and programming drives me to learn and improve every day. I love diving into innovative projects and collaborating with dynamic teams, where I can contribute my skills and creativity.
+
+Since discovering the world of software development, I’ve dedicated myself to perfecting my knowledge in various areas, from web development to mobile applications. I constantly keep myself updated with the latest trends and technologies to ensure I stay ahead of the curve.
+
+My goal is to excel in every project I undertake, providing efficient and creative solutions. I’m a proactive person with a strong desire for self-improvement and a great ability to adapt to different environments and challenges.
+
+I’m eager to be part of teams that value innovation and teamwork, where I can continue to grow as a professional. If you’re looking for someone with passion, dedication, and a desire to make a difference, I’d love to collaborate with you on your next project!
+
+Feel free to check out my repositories to see some of the projects I’ve worked on. I’m excited about what the future holds and ready to face any challenge ahead. Let’s create something amazing together!
 
 
 ## 🌐 Socials:
